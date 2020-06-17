@@ -2,6 +2,9 @@
 ## 插件主界面
 ![image](https://github.com/cao19881125/picture_cloud/blob/master/BuffWatcher/bufferwatcher-mainwindow2.png?raw=true)
 
+## 0. 本仓库介绍
+
+本仓库为fork版本，感谢原作者作出了这么好用的插件。但是由于实际使用中的提示语对大家来说不太友好，故我们《炉石旅馆》公会对其进行了个性化定制。
 
 ## 1. Buff监控插件功能介绍
 魔兽世界怀旧服Buff监控插件功能如下

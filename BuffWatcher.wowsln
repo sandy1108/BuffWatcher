@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# WowAddOnStudio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E6E1D386-69D8-4755-9E61-0950293915FC}") = "BuffWatcher", "BuffWatcher.wowproj", "{4A235405-A92C-4EF2-9C36-D0208CFA930C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A235405-A92C-4EF2-9C36-D0208CFA930C}.Default|Any CPU.ActiveCfg = Default|Any CPU
+		{4A235405-A92C-4EF2-9C36-D0208CFA930C}.Default|Any CPU.Build.0 = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
